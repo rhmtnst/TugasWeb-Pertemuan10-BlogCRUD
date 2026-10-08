@@ -3,7 +3,7 @@
 ## 👤 Identitas
 
 - **Nama:** Rahmat Hamonangan Nasution
-- **Program Studi:** Ilmu Komputer
+- *NIM:** 4253250053
 - **Universitas:** Universitas Negeri Medan
 - **Mata Kuliah:** Pemrograman Web
 - **Pertemuan:** 10
